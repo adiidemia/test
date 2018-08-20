@@ -12,6 +12,7 @@ public class App
 		if(true)
 		{
 			System.out.println("This is true");
+			System.out.println("This is false");
 		}
     }
 }
