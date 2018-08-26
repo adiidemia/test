@@ -12,7 +12,7 @@ public class App
 		if(true)
 		{
 			System.out.println("This is true");
-			System.out.println("This is a wrong statement");
+			System.out.println("This is a statement");
 		}
     }
 }
